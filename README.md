@@ -22,11 +22,11 @@
 [The JavaScript Execution Context, Call-stack & Event Loop ](https://dev.to/thebabscraig/the-javascript-execution-context-call-stack-event-loop-1if1)
 
 
-[]()
+[Understanding Execution Context and Call Stack in JavaScript (1)](https://velog.io/@hyundonny/Understanding-Execution-Context-and-Call-Stack-in-JavaScript-1)
 
-[]()
+[Understanding Execution Context and Call Stack in JavaScript (2) ](https://velog.io/@hyundonny/Understanding-Execution-Context-and-Call-Stack-in-JavaScript-2)
 
-[]()
+[Understanding the JavaScript call stack](https://morioh.com/p/b092b1c285ac)
 
 []()
 
