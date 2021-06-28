@@ -59,7 +59,84 @@
 
 [What are Data Types in JavaScript? - JavaScript 101](https://blog.devmountain.com/what-are-data-types-javascript-101/)
 
+## Value types and Reference types javascript
+[Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
+[Primitive Types & Reference Types in JavaScript](https://gist.github.com/branneman/7fb06d8a74d7e6d4cbcf75c50fec599c)
+
+[Reference vs Primitive Values](https://academind.com/tutorials/reference-vs-primitive-values/)
+
+[Value types, reference types and scope in JavaScript](https://medium.com/@_benaston/lesson-1b-javascript-fundamentals-380f601ba851)
+
+[Primitive vs Reference Values in JavaScript](https://ui.dev/primitive-vs-reference-values-in-javascript/)
+
+[The Difference Between Values and References in JavaScript](https://dmitripavlutin.com/value-vs-reference-javascript/)
+[What are Primitive and Reference Types in JavaScript?](https://itnext.io/javascript-interview-prep-primitive-vs-reference-types-62eef165bec8)
+
+[value type reference type object in javascript](https://stackoverflow.com/questions/7480654/value-type-reference-type-object-in-javascript)
+
+[Primitive value vs Reference value](https://stackoverflow.com/questions/13266616/primitive-value-vs-reference-value/13268731)
+
+[Primitive Types and Reference Types](https://www.oreilly.com/library/view/javascript-the-definitive/0596000480/ch04s04.html)
+
+[JavaScript Primitive vs Reference types](https://dev.to/ykhokhaneshiya/javascript-primitive-vs-reference-types-43dl)
+
+[]()
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 []()
 
 []()
