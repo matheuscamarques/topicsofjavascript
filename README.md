@@ -1,5 +1,5 @@
 # Topicos para estudar Javascript
-[]()
+
 ## Call Stack Execution Javascript
 [What is the Call Stack in JavaScript ?](https://www.geeksforgeeks.org/what-is-the-call-stack-in-javascript/)
 
@@ -28,37 +28,36 @@
 
 [Understanding the JavaScript call stack](https://morioh.com/p/b092b1c285ac)
 
-[]()
+## Primitive data types in javascript
+[JavaScript Essentials: Types & Data Structures](https://codeburst.io/javascript-essentials-types-data-structures-3ac039f9877b?gi=90d19fd0d8f)
 
-[]()
+[Primitivo](https://developer.mozilla.org/pt-BR/docs/Glossary/Primitive)
 
-[]()
+[Estrutura de dados do Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
 
+[JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
 
-[]()
+[Javascript Data Types](https://www.javatpoint.com/javascript-data-types)
 
-[]()
+[Data types](https://javascript.info/types)
 
-[]()
+[JavaScript Data Types](https://www.tutorialrepublic.com/javascript-tutorial/javascript-data-types.php)
 
-[]()
+[JavaScript Data Types](https://www.tutorialsteacher.com/javascript/javascript-data-types)
 
-[]()
+[JavaScript Data Types](https://www.javascripttutorial.net/javascript-data-types/)
 
-[]()
+[6 Primitive Data Types in Javascript](https://morioh.com/p/5fed0d705fae)
 
+[JavaScript Primitive vs. Reference Values](https://www.javascripttutorial.net/javascript-primitive-vs-reference-values/)
 
-[]()
+[Js Primitive Data Types And Objects](https://learn.co/lessons/js-primitive-data-types-and-objects)
 
-[]()
+[JavaScript Data Types](https://www.programiz.com/javascript/data-types)
 
-[]()
+[JavaScript: Primitive & Reference Data Types ](https://dev.to/proiacm/javascript-primitive-reference-data-types-2k8i)
 
-[]()
-
-[]()
-
-[]()
+[What are Data Types in JavaScript? - JavaScript 101](https://blog.devmountain.com/what-are-data-types-javascript-101/)
 
 
 []()
